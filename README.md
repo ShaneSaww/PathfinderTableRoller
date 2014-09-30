@@ -4,6 +4,7 @@ PathfinderTableRoller <br>
 A python program that rolls on tables to randomly select race. Best used for Pen and Paper games like DnD <br>
 
  <br>
+ #Overall Info:
  Pathfinder.py a program that reads input from a text file and rolls on it. <br>
  This program is created to help test random race creation/ revive lists. This list can have many rolling tables that call other rolling tables. <br> 
  More details on the FF exist in the FF.  <br>
@@ -13,7 +14,7 @@ Future Goals: Some sort of UI, better error handling.  <br>
 <br>
 
 
-Input Info:
+#Input Info:
 
 This file should be stored as such: C:/pyt/RollInput.txt <br>
  the out file will be stored as such: 'C:/pyt/RollOutput.txt' <br>

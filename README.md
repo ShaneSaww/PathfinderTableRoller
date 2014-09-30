@@ -25,3 +25,10 @@ Each table should start with "--New Table" and end with "--End Table" no quotes.
 After the start of the table the first line should be the table name.  <br>
 After that each line of the table should have the chance then the Value. <br>
 
+Example:<br>
+--New Table <br>
+Main Table <br>
+65 Core Race <br>
+90 Featured Races <br>
+99 Uncommon Races <br>
+--End Table <br>

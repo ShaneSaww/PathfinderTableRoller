@@ -1,0 +1,135 @@
+## This file should be stored as such: C:/pyt/RollInput.txt
+## the out file will be stored as such: 'C:/pyt/RollOutput.txt'
+##Set up for Table ROlling, first line is number of rolls, folowed by Tables you want rolled on. 
+##It is a good idea to have the highest level table first, an exmaple would be the Main Table, or table that has the largest branches.
+##Each table should start with "--New Table" and end with "--End Table" no quotes. 
+## The first line is how many times you want to test the rolls
+## After the start of the table the first line should be reading in the table name. 
+## After that each line of the table should have the chance then the Value. 
+10000
+--New Table
+Main Table
+65 Core Race
+90 Featured Races
+99 Uncommon Races
+--End Table
+--New Table
+Core Race
+15 Elf Heritages
+30 Dwarf
+45 Gnome
+50 Half-Elf Heritages
+66 Halfling
+70 Half-Orc Heritages
+99 Human
+--End Table
+--New Table
+Featured Races
+09 Planetouched Heritages
+18 Elemental Heritages
+26 Catfolk
+35 Dhampir Heritages
+43 Fetchling
+51 Goblin
+59 Hobgoblin
+67 Kobold
+75 Orc
+83 Ratfolk
+92 Shifter Heritages
+99 Tengu
+--End Table
+--New Table
+Uncommon Races
+08 Changeling
+15 Duergar
+22 Gillman
+30 Grippli
+38 Kitsune
+46 Nagaji
+54 Samsaran
+71 Strix
+78 Suli
+85 Svirfneblin
+93 Vanara
+98 Vishkanya
+99 GM’s Choice
+--End Table
+--New Table
+Half-Elf Heritages
+33 Half-Elf
+46 Shoreborn (Aquatic)
+60 Darkborn (Half-Drow)
+74 Wildborn (Ekujae)
+87 Spireborn (Mordant Spire)
+99 Snowborn (Snowcaster)
+--End Table
+--New Table
+Elf Heritages
+98 Elf
+99 Drow
+--End Table
+--New Table
+Half-Orc Heritages
+33 Half-Orc
+46 Gloomkin (Darklands)
+60 Sandkin (Desert)
+74 Rainkin (Jungle)
+87 Cragkin (Mountain)
+99 Frostkin (Winter)
+--End Table
+--New Table
+Planetouched Heritages
+50 Aasimar Heritages
+99 Tiefling Heritages
+--End Table
+--New Table
+Tiefling Heritages
+33 Tiefling
+40 Faultspawn (Asura)
+47 Grimspawn (Daemon)
+53 Foulspawn (Demodand)
+60 Pitborn (Demon)
+67 Hellspawn (Devil)
+74 Spitespawn (Div)
+81 Shackleborn (Kyton)
+87 Hungerseed (Oni)
+93 Motherless (Qlippoth)
+99 Beastbrood (Rakshasa)
+--End Table
+--New Table
+Elemental Heritages
+25 Ifrit (Fire)
+50 Oread (Earth)
+75 Sylph (Air)
+99 Undine (Water)
+--End Table
+--New Table
+Dhampir Heritages
+33 Dhampir
+49 Ru-shi (Jiang-shi)
+68 Svetocher (Moroi)
+84 Ancient-Born (Nosferatu)
+99 Ajibachana (Vetala)
+--End Table
+--New Table
+Shifter Heritages
+33 Skinwalker
+41 Bloodmarked (Bat)
+50 Coldborn (Bear)
+58 Ragebred (Boar)
+66 Scaleheart (Crocodile)
+75 Nightskulk (Rat)
+82 Seascarred (Shark)
+90 Fanglord (Tiger)
+99 Witchwolf (Wolf)
+--End Table
+--New Table
+Aasimar Heritages
+33 Aasimar
+44 Idyllkin (Agathion)
+55 Angelkin (Angel)
+66 Lawbringer (Archon)
+77 Musetouched (Azata)
+88 Plumekith (Garuda)
+99 Emberkin (Peri)
+--End Table
